@@ -1,12 +1,4 @@
 
-<html lang="em">
-    <head>
-        <title>Tech for girls community</title>
-        <link rel="stylesheet" href="stp.css"/>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-    />
   
     </head>
     <body>
@@ -21,7 +13,7 @@
             <p id="counter text">count : 0/5</p>
             <input type="file" id="uploadfile" accept="image/*,application/pdf" required>
             <button type="button" id="submit" disabled>Submit the registration</button>
-            </form>
+           
             <p id="message"></p>
             </div>
             <script src="scr.js"></script>
