@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="em">
     <head>
         <title>Tech for girls community</title>
@@ -25,5 +25,4 @@
             <p id="message"></p>
             </div>
             <script src="scr.js"></script>
-    </body>
-    </html>
+   
